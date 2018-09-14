@@ -1,0 +1,8 @@
+bw(i,j) = type
+type:
+1: yellow bird
+2: red bird
+3: black bird
+4: white
+5: blue
+6: slingshot
